@@ -75,3 +75,6 @@ def load_cdc_data() -> None:
 
 def main():
     load_cdc_data()
+
+if __name__ == '__main__':
+    main()
